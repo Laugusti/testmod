@@ -1,1 +1,1 @@
-module github.com/Laugusti/testmod
+module github.com/Laugusti/testmod/v2
